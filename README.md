@@ -2,7 +2,7 @@
 Distribution of the overall intra tumor heterogeneity 
 
 
-install.packages("DNAcopy")
+BiocManager::install("DNAcopy")
 
 install.packages("DPpackage")
 
